@@ -1,0 +1,9 @@
+flask
+vaderSentiment
+gspread
+pandas
+google-auth
+google-cloud-bigquery
+textblob
+gunicorn
+pyarrow
